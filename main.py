@@ -8,6 +8,13 @@ def Exibir_painel():
         produto_cadastrado = input('Escolha o nome do produto  ')
     elif opcao_escolhida == 2:
         produto_cadastrado = input('Escolha o nome do departamento  ')
+    elif opcao_escolhida == 3:
+        print('Exibir produtos /n')
+        print('Camiza azul /n')
+        print('Camiza preta /n')
+        print('Departamento calçados')
+        print('Departamento camisas')
+        
                
         
 Exibir_painel()
